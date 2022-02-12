@@ -153,7 +153,7 @@ nav a:focus{
     background: url(../images/evano.png);
     background-size: contain;
     opacity: 0;
-    transform: translateY(-650px);
+    transform: translateY(-700px);
 }
 
 .logo,
